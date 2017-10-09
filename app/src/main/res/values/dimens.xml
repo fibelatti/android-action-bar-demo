@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_regular">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_extra_large">24sp</dimen>
+
+    <dimen name="padding_smaller">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_regular">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_larger">32dp</dimen>
+
+    <dimen name="margin_smaller">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_regular">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_larger">40dp</dimen>
+
+    <dimen name="clickable_area">40dp</dimen>
+
+    <dimen name="divider_size">1dp</dimen>
+
+    <!-- Row Action Bar -->
+    <dimen name="item_action_bar_height">60dp</dimen>
+
+    <!-- Search View -->
+    <dimen name="search_view_height">60dp</dimen>
+
+    <!-- Item Grid -->
+    <dimen name="item_grid_height">200dp</dimen>
+    <dimen name="item_grid_image_view_size">100dp</dimen>
+
+    <!-- Item List -->
+    <dimen name="item_list_height">80dp</dimen>
+    <dimen name="item_list_image_view_size">50dp</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_grid_height">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imageView_icon"
+        android:layout_width="@dimen/item_grid_image_view_size"
+        android:layout_height="@dimen/item_grid_image_view_size"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <RadioButton
+        android:id="@+id/radioButton_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView_icon"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radioButton_select"
+        android:layout_centerHorizontal="true"
+        android:text="@string/item_grid_description"/>
+
+</RelativeLayout>

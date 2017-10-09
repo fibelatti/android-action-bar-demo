@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Action Bar Demo</string>
+
+    <!-- Row Action Bar -->
+    <string name="item_action_bar_description">Demo Text</string>
+    <string name="item_action_bar_button">Edit</string>
+
+    <!-- Item Grid -->
+    <string name="item_grid_description">Select</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum tempor sapien sit amet porta. Duis eget sem vitae enim vestibulum scelerisque sit amet quis leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in accumsan nisl. Donec lacinia, mi quis sodales commodo, leo turpis commodo orci, vitae euismod mi eros in eros. Praesent sagittis augue eget ornare tempus. Donec id purus congue, ultricies quam sit amet, sodales nunc. Donec metus nibh, dictum non neque quis, dignissim condimentum orci. Integer consequat accumsan dui, sed sollicitudin erat ornare ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum laoreet tristique. Nam sed ornare justo.
+
+Nam vel massa metus. Praesent nec laoreet nisi, id congue enim. Vestibulum lacinia pharetra malesuada. Integer turpis augue, rhoncus a mattis ac, aliquet quis nunc. Nullam tempor velit a ipsum ultricies, quis convallis arcu dapibus. Praesent in ligula quam. Pellentesque ut augue sed ex laoreet bibendum ac eget nisl. Nam quis ipsum augue. Phasellus ultrices, mi a imperdiet porta, orci ex ornare neque, non consectetur nunc lorem id neque. Nam ultrices, lorem venenatis rhoncus egestas, dui nulla viverra nisi, eget porttitor risus lacus eu dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus sed ipsum varius, vestibulum massa eget, pulvinar magna. Vestibulum pulvinar lacus at euismod lacinia. Sed gravida magna risus, a rutrum nisi vulputate ut.
+
+Duis semper varius risus sit amet porta. Nulla sagittis pharetra ante, quis pulvinar massa tempor eu. Nulla consequat ligula odio, porta elementum ligula ornare non. Integer eget condimentum leo. Proin placerat a leo sed imperdiet. Praesent pharetra maximus finibus. Morbi velit dui, fermentum eu interdum ac, cursus id orci.
+
+Donec ac mi commodo, pulvinar nunc ut, faucibus metus. Donec nec ullamcorper neque. In non metus et lectus scelerisque molestie. Ut aliquam ultrices lectus. Nunc porta pulvinar felis et rhoncus. Curabitur rutrum laoreet lobortis. Proin semper tellus non sapien vestibulum, at vestibulum lectus eleifend. Nunc id leo euismod, feugiat nisl aliquam, sodales mauris. Sed ut mattis justo, quis auctor neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Curabitur ut nibh risus. Phasellus eget ornare ipsum. Mauris orci lectus, commodo nec dapibus ac, congue nec sem. Curabitur tempus sapien id elit interdum aliquam sed at sapien. Cras vulputate, lacus sed commodo tincidunt, justo nibh feugiat ligula, sit amet bibendum velit urna auctor diam. Aenean facilisis ligula quis purus laoreet gravida. Mauris bibendum diam lacinia neque tristique vestibulum a eu ex. Donec auctor quam metus, nec aliquet risus aliquam quis. Nullam non lorem ac lorem elementum pretium.</string>
+</resources>
